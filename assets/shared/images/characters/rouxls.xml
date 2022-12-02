@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rouxls.png">
+	
+<!-- IDLE -->
+	
+<SubTexture name="rouxls idle0000" x="0" y="0" width="279" height="423" frameX="-199" frameY="-78" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls idle0001" x="281" y="0" width="287" height="423" frameX="-201" frameY="-72" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls idle0002" x="568" y="0" width="292" height="426" frameX="-204" frameY="-69" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls idle0003" x="861" y="0" width="293" height="423" frameX="-204" frameY="-69" frameWidth="460" frameHeight="460" />
+
+<!-- UP -->
+	
+<SubTexture name="rouxls up0000" x="1155" y="0" width="280" height="438" frameX="-217" frameY="-46" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls up0001" x="1434" y="0" width="283" height="438" frameX="-216" frameY="-48" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls up0002" x="1715" y="0" width="284" height="436" frameX="-212" frameY="-52" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls up0003" x="1715" y="0" width="284" height="436" frameX="-212" frameY="-52" frameWidth="460" frameHeight="460" />
+
+<!-- LEFT -->
+	
+<SubTexture name="rouxls left0000" x="0" y="424" width="324" height="422" frameX="-155" frameY="-77" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls left0001" x="326" y="426" width="322" height="422" frameX="-167" frameY="-76" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls left0002" x="648" y="427" width="319" height="423" frameX="-172" frameY="-76" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls left0003" x="968" y="438" width="319" height="421" frameX="-172" frameY="-76" frameWidth="460" frameHeight="460" />
+
+<!-- RIGHT -->
+	
+<SubTexture name="rouxls right0000" x="1287" y="439" width="302" height="410" frameX="-234" frameY="-99" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls right0001" x="1592" y="437" width="302" height="414" frameX="-236" frameY="-96" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls right0002" x="0" y="848" width="304" height="413" frameX="-237" frameY="-95" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls right0003" x="0" y="848" width="304" height="413" frameX="-237" frameY="-95" frameWidth="460" frameHeight="460" />
+
+<!-- DOWN -->
+	
+<SubTexture name="rouxls down0000" x="305" y="849" width="358" height="356" frameX="-135" frameY="-210" frameWidth="460" frameHeight="460" />
+<SubTexture name="rouxls down0002" x="1019" y="861" width="355" height="363" frameX="-147" frameY="-193" frameWidth="460" frameHeight="460" />
+
+<!-- END -->
+	
+</TextureAtlas>

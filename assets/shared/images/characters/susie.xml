@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="susie.png">
+	
+<!-- IDLE -->
+	
+<SubTexture name="susie idle0000" x="0" y="0" width="544" height="372" frameX="-19" frameY="-538" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle0001" x="547" y="0" width="539" height="384" frameX="-19" frameY="-509" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle0002" x="1084" y="0" width="535" height="389" frameX="-19" frameY="-503" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle0003" x="1624" y="0" width="535" height="391" frameX="-20" frameY="-500" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle0004" x="1624" y="0" width="535" height="391" frameX="-20" frameY="-500" frameWidth="610" frameHeight="640" />
+
+<!-- RIGHT -->
+	
+<SubTexture name="susie right0000" x="2158" y="0" width="528" height="378" frameX="-141" frameY="-527" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie right0001" x="2689" y="0" width="521" height="378" frameX="-142" frameY="-528" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie right0002" x="3210" y="0" width="529" height="378" frameX="-124" frameY="-529" frameWidth="610" frameHeight="640" />
+
+<!-- LEFT -->
+	
+<SubTexture name="susie left0000" x="0" y="385" width="492" height="396" frameX="0" frameY="-491" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie left0001" x="493" y="387" width="488" height="394" frameX="-1" frameY="-494" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie left0002" x="932" y="391" width="480" height="389" frameX="-3" frameY="-499" frameWidth="610" frameHeight="640" />
+
+<!-- DOWN -->
+	
+<SubTexture name="susie down0000" x="1471" y="392" width="508" height="351" frameX="-36" frameY="-581" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie down0001" x="1984" y="392" width="507" height="354" frameX="-25" frameY="-574" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie down0002" x="2494" y="391" width="507" height="357" frameX="-21" frameY="-506" frameWidth="610" frameHeight="640" />
+
+<!-- UP -->
+	
+<SubTexture name="susie up0000" x="3015" y="378" width="542" height="450" frameX="-19" frameY="-383" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie up0001" x="0" y="790" width="548" height="447" frameX="-17" frameY="-387" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie up0002" x="556" y="793" width="540" height="444" frameX="-16" frameY="-394" frameWidth="610" frameHeight="640" />
+
+<!-- ATK -->
+	
+<SubTexture name="susie atk0000" x="1108" y="785" width="430" height="580" frameX="-127" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0001" x="1549" y="747" width="577" height="446" frameX="-36" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0002" x="2136" y="748" width="424" height="333" frameX="-25" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0003" x="2577" y="830" width="411" height="339" frameX="-21" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0004" x="2577" y="830" width="411" height="339" frameX="-21" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0005" x="2577" y="830" width="411" height="339" frameX="-21" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0006" x="2577" y="830" width="411" height="339" frameX="-21" frameY="-0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0007" x="2577" y="830" width="411" height="339" frameX="-21" frameY="0" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie atk0008" x="2577" y="830" width="411" height="339" frameX="-21" frameY="0" frameWidth="610" frameHeight="640" />
+
+<!-- I ALT -->
+	
+<SubTexture name="susie idle-alt0000" x="2994" y="830" width="546" height="371" frameX="-19" frameY="-536" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle-alt0001" x="0" y="1238" width="540" height="386" frameX="-19" frameY="-520" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle-alt0002" x="544" y="1238" width="536" height="391" frameX="-19" frameY="-501" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle-alt0003" x="1098" y="1365" width="535" height="393" frameX="-20" frameY="-498" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie idle-alt0004" x="1098" y="1365" width="535" height="393" frameX="-20" frameY="-498" frameWidth="610" frameHeight="640" />
+
+<!-- R ALT -->
+	
+<SubTexture name="susie right-alt0000" x="1642" y="1196" width="493" height="383" frameX="-141" frameY="-542" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie right-alt0001" x="0" y="1625" width="485" height="381" frameX="-142" frameY="-538" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie right-alt0002" x="489" y="1628" width="481" height="384" frameX="-124" frameY="-533" frameWidth="610" frameHeight="640" />
+
+<!-- L ALT -->
+	
+<SubTexture name="susie left-alt0000" x="2143" y="1203" width="526" height="375" frameX="0" frameY="-517" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie left-alt0001" x="2679" y="1208" width="521" height="372" frameX="-1" frameY="-517" frameWidth="610" frameHeight="640" />
+
+<!-- D ALT -->
+	
+<SubTexture name="susie down-alt0000" x="989" y="1760" width="505" height="316" frameX="-36" frameY="-648" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie down-alt0001" x="1500" y="1759" width="508" height="324" frameX="-25" frameY="-638" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie down-alt0002" x="2014" y="1581" width="508" height="326" frameX="-21" frameY="-634" frameWidth="610" frameHeight="640" />
+
+<!-- U ALT -->
+	
+<SubTexture name="susie up-alt0000" x="2536" y="1580" width="533" height="426" frameX="-19" frameY="-407" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie up-alt0001" x="3076" y="1591" width="544" height="437" frameX="-17" frameY="-404" frameWidth="610" frameHeight="640" />
+<SubTexture name="susie up-alt0002" x="0" y="2008" width="549" height="436" frameX="-16" frameY="-408" frameWidth="610" frameHeight="640" />
+
+<!-- END -->
+</TextureAtlas>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nelson.png">
+
+<!-- IDLE 1 -->
+	
+<SubTexture name="nelson dance left0000" x="0" y="33" width="361" height="366" frameX="-32" frameY="-148" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0001" x="363" y="33" width="358" height="369" frameX="-36" frameY="-143" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0002" x="721" y="33" width="358" height="372" frameX="-36" frameY="-137" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0003" x="1079" y="33" width="354" height="373" frameX="-39" frameY="-136" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0004" x="1434" y="34" width="357" height="367" frameX="-32" frameY="-148" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0005" x="1793" y="34" width="356" height="368" frameX="-36" frameY="-143" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0006" x="2152" y="34" width="357" height="370" frameX="-36" frameY="-137" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance left0007" x="2510" y="0" width="354" height="372" frameX="-39" frameY="-136" frameWidth="460" frameHeight="460" />
+
+<!-- IDLE 2 -->
+	
+<SubTexture name="nelson dance right0000" x="1434" y="34" width="357" height="367" frameX="-32" frameY="-148" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance right0001" x="1793" y="34" width="356" height="368" frameX="-36" frameY="-143" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance right0002" x="2152" y="34" width="357" height="370" frameX="-36" frameY="-137" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson dance right0003" x="2510" y="0" width="354" height="372" frameX="-39" frameY="-136" frameWidth="460" frameHeight="460" />
+
+<!-- LEFT -->
+
+<SubTexture name="nelson left0000" x="0" y="401" width="349" height="363" frameX="-17" frameY="-110" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson left0001" x="350" y="402" width="352" height="365" frameX="-13" frameY="-116" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson left0002" x="703" y="404" width="353" height="367" frameX="-11" frameY="-119" frameWidth="460" frameHeight="460" />
+
+<!-- RIGHT -->
+
+<SubTexture name="nelson right0000" x="1057" y="406" width="398" height="361" frameX="-112" frameY="-138" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson right0001" x="1457" y="402" width="396" height="365" frameX="-107" frameY="-137" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson right0002" x="1855" y="403" width="396" height="370" frameX="-98" frameY="-139" frameWidth="460" frameHeight="460" />
+
+<!-- DOWN -->
+
+<SubTexture name="nelson down0000" x="2252" y="405" width="396" height="363" frameX="-28" frameY="-148" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson down0001" x="0" y="765" width="366" height="354" frameX="-23" frameY="-156" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson down0002" x="366" y="768" width="368" height="343" frameX="-22" frameY="-161" frameWidth="460" frameHeight="460" />
+
+<!-- UP -->
+
+<SubTexture name="nelson up0000" x="734" y="769" width="372" height="430" frameX="-15" frameY="-43" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson up0001" x="1108" y="767" width="358" height="423" frameX="-10" frameY="-54" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson up0002" x="1470" y="768" width="358" height="420" frameX="-10" frameY="-61" frameWidth="460" frameHeight="460" />
+
+<!-- L ALT -->
+
+<SubTexture name="nelson left-alt0000" x="1831" y="772" width="351" height="363" frameX="-17" frameY="-110" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson left-alt0001" x="2182" y="773" width="353" height="367" frameX="-13" frameY="-116" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson left-alt0002" x="0" y="1118" width="351" height="366" frameX="-11" frameY="-119" frameWidth="460" frameHeight="460" />
+
+<!-- R ALT -->
+
+<SubTexture name="nelson right-alt0000" x="354" y="1113" width="398" height="359" frameX="-112" frameY="-138" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson right-alt0001" x="754" y="1200" width="397" height="366" frameX="-107" frameY="-137" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson right-alt0002" x="1153" y="1190" width="398" height="371" frameX="-98" frameY="-139" frameWidth="460" frameHeight="460" />
+
+<!-- D ALT -->
+
+<SubTexture name="nelson down-alt0000" x="1551" y="1188" width="365" height="363" frameX="-28" frameY="-148" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson down-alt0001" x="1918" y="1138" width="365" height="355" frameX="-23" frameY="-156" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson down-alt0002" x="2286" y="1139" width="366" height="346" frameX="-22" frameY="-161" frameWidth="460" frameHeight="460" />
+
+<!-- U ALT -->
+
+<SubTexture name="nelson up-alt0000" x="0" y="1485" width="370" height="430" frameX="-15" frameY="-43" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson up-alt0001" x="371" y="1485" width="359" height="426" frameX="-10" frameY="-54" frameWidth="460" frameHeight="460" />
+<SubTexture name="nelson up-alt0002" x="738" y="1565" width="360" height="421" frameX="-10" frameY="-61" frameWidth="460" frameHeight="460" />
+
+<!-- END -->
+	
+</TextureAtlas>

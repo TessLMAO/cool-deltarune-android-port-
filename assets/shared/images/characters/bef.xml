@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bef.png">
+	
+<!-- IDLE -->
+	
+<SubTexture name="bef idle dance0000" x="0" y="0" width="300" height="281" frameX="-180" frameY="-390" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0001" x="0" y="0" width="300" height="281" frameX="-186" frameY="-390" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0002" x="300" y="0" width="295" height="286" frameX="-191" frameY="-390" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0003" x="595" y="0" width="294" height="289" frameX="-194" frameY="-390" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0004" x="890" y="0" width="297" height="281" frameX="-193" frameY="-390" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0005" x="890" y="0" width="297" height="281" frameX="-193" frameY="-390" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0006" x="890" y="0" width="297" height="281" frameX="-193" frameY="-390" frameWidth="500" frameHeight="500" />
+
+<!-- LEFT -->
+	
+<SubTexture name="bef NOTE LEFT0000" x="0" y="280" width="276" height="289" frameX="-147" frameY="-380" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0001" x="278" y="285" width="277" height="286" frameX="-145" frameY="-380" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0002" x="278" y="285" width="277" height="286" frameX="-145" frameY="-380" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0003" x="278" y="285" width="277" height="286" frameX="-145" frameY="-380" frameWidth="500" frameHeight="500" />
+
+<!-- RIGHT -->
+	
+<SubTexture name="bef NOTE RIGHT0000" x="563" y="294" width="292" height="292" frameX="-265" frameY="-376" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0001" x="855" y="292" width="288" height="293" frameX="-265" frameY="-371" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0002" x="855" y="292" width="288" height="293" frameX="-265" frameY="-371" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0003" x="855" y="292" width="288" height="293" frameX="-265" frameY="-371" frameWidth="500" frameHeight="500" />
+
+<!-- UP -->
+	
+<SubTexture name="bef NOTE UP0000" x="0" y="569" width="259" height="315" frameX="-261" frameY="-332" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0001" x="260" y="575" width="262" height="309" frameX="-259" frameY="-341" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0002" x="260" y="575" width="262" height="309" frameX="-259" frameY="-341" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0003" x="260" y="575" width="262" height="309" frameX="-259" frameY="-341" frameWidth="500" frameHeight="500" />
+
+<!-- DOWN -->
+	
+<SubTexture name="bef NOTE DOWN0000" x="522" y="588" width="267" height="251" frameX="-224" frameY="-400" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0001" x="795" y="584" width="268" height="257" frameX="-227" frameY="-400" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0002" x="795" y="584" width="268" height="257" frameX="-227" frameY="-400" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0003" x="795" y="584" width="268" height="257" frameX="-227" frameY="-400" frameWidth="500" frameHeight="500" />
+
+<!-- END -->
+</TextureAtlas>
